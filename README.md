@@ -62,7 +62,9 @@ This is one skill from **[f13i-cli](https://github.com/f13i/f13i-cli)** — the 
 chief-of-staff I use to run [f13i](https://f13i.com), my SaaS pricing consultancy. It's
 published as a **reference architecture**: written against my own vault and tooling, with
 all client and personal details replaced by placeholders. My pricing background is four
-years at Grafana Labs (previously — Sr. Manager, Commercialization & Pricing); the system
-here is my own.
+years at Grafana Labs — now past [$600M ARR and 10,000
+customers](https://www.businessinsider.com/grafana-labs-arr-600-million-ai-demand-2026-8),
+up from $400M ARR and 7,000 customers in September 2025 — where I was Sr. Manager,
+Commercialization & Pricing; the system here is my own.
 
 **License:** [MIT](LICENSE)
